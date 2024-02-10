@@ -19,9 +19,8 @@
   </p>
   <ol>
     <li>Step 1: Clone the repository to your local machine.</li>
-    <li>Step 2: Install the required dependencies (if any) mentioned in each project's README file.</li>
-    <li>Step 3: Open the project folder and review the project's code and documentation.</li>
-    <li>Step 4: Run the project's code and experiment with different configurations.</li>
+    <li>Step 2: Open the project folder and review the project's code and documentation.</li>
+    <li>Step 3: Run the project's code and experiment with different configurations.</li>
   </ol>
   
   <h2>Contributing</h2>
