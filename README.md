@@ -8,9 +8,7 @@
     Here are some of the projects included in this repository:
   </p>
   <ul>
-    <li>Project 1: [Brief description of the project]</li>
-    <li>Project 2: [Brief description of the project]</li>
-    <li>Project 3: [Brief description of the project]</li>
+    <li>Project 1: Housing Prices Prediction</li>
   </ul>
   
   <h2>Usage</h2>
