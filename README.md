@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>ML Kaggle Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: #333;
-      font-size: 24px;
-    }
-    p {
-      color: #666;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-  </style>
-</head>
-<body>
   <h1>ML Kaggle Projects</h1>
   <p>
     Welcome to the ML Kaggle Projects repository! This repository contains a collection of machine learning projects that I have worked on as part of Kaggle competitions. Each project focuses on solving real-world problems and applying various machine learning techniques.
@@ -50,10 +28,3 @@
   <p>
     Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional projects to add, feel free to submit a pull request. Please follow the project's guidelines and ensure that your contributions align with the existing projects.
   </p>
-  
-  <h2>License</h2>
-  <p>
-    This repository is licensed under the <a href="https://example.com/license">MIT License</a>.
-  </p>
-</body>
-</html>
