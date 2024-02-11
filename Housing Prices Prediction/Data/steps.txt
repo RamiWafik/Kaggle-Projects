@@ -1,0 +1,10 @@
+Steps left in data preparation:
+
+1- Check the distribution of numerical values and write the observations (DONE)
+2- Drop outliers (DONE)
+3- Transform skewed features (DONE)
+4- one hot encoding (DONE)
+5- Feature Engineering (Other in categorical and creating new numerical features) (DONE)
+6- Converting categorical features to numbers in the columns (DONE)
+7- dropping unecessary features (DONE)
+8- Missing values in categorical features (DONE)
