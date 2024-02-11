@@ -1,11 +1,11 @@
   <h1>Housing Prices Prediction</h1>
   <p>
-    Welcome to the Housing Prices Prediction repository! This project focuses on predicting housing prices using machine learning techniques. It is based on the well-known Kaggle competition "[Competition Name]".
+    Welcome to the Housing Prices Prediction repository! This project focuses on predicting housing prices using machine learning techniques. It is based on the well-known Kaggle competition "Housing Prices Competition for Kaggle Learn Users".
   </p>
   
   <h2>Project Overview</h2>
   <p>
-    In this project, we aim to build a model that accurately predicts the prices of residential houses using a given set of features such as the number of bedrooms, square footage, location, etc. The dataset used for this project is the [provide details about the dataset used].
+    In this project, we aim to build a model that accurately predicts the prices of residential houses using a given set of features such as the number of bedrooms, square footage, location, etc. The dataset used for this project is included in this repository. Included also a data description file where you can find the description for each feature.
   </p>
   
   <h2>Features</h2>
@@ -26,9 +26,8 @@
   </p>
   <ol>
     <li>Step 1: Clone the repository to your local machine.</li>
-    <li>Step 2: Install the required dependencies mentioned in the project's README file.</li>
-    <li>Step 3: Explore the provided notebooks and scripts to understand the data preprocessing, EDA, and model building processes.</li>
-    <li>Step 4: Run the notebooks and scripts to reproduce the results or modify them to suit your requirements.</li>
+    <li>Step 2: Explore the provided notebooks and scripts to understand the data preprocessing, EDA, and model building processes.</li>
+    <li>Step 3: Run the notebooks and scripts to reproduce the results or modify them to suit your requirements.</li>
   </ol>
   
   <h2>Contributing</h2>
