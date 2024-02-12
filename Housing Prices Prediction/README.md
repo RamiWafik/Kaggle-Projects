@@ -2,7 +2,14 @@
   <p>
     Welcome to the Housing Prices Prediction repository! This project focuses on predicting housing prices using machine learning techniques. It is based on the well-known Kaggle competition "Housing Prices Competition for Kaggle Learn Users".
   </p>
-  
+
+  <p>
+    If you found this helpful make sure to upvote the notebooks on Kaggle:
+    <ul>
+      <li><a href="https://www.kaggle.com/code/ramiwafik/eda-data-preprocessing-feature-engineering">EDA, Data Preprocessing & Feature Engineering</a></li>
+      <li><a href="https://www.kaggle.com/code/ramiwafik/predicting-the-housing-prices">Predicting The Housing Prices</a></li>
+    </ul>
+  </p>
   <h2>Project Overview</h2>
   <p>
     In this project, we aim to build a model that accurately predicts the prices of residential houses using a given set of features such as the number of bedrooms, square footage, location, etc. The dataset used for this project is included in this repository. Included also a data description file where you can find the description for each feature.
