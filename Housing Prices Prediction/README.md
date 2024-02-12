@@ -2,7 +2,7 @@
   <p>
     Welcome to the Housing Prices Prediction repository! This project focuses on predicting housing prices using machine learning techniques. It is based on the well-known Kaggle competition "Housing Prices Competition for Kaggle Learn Users".
   </p>
-
+  <img src="https://storage.googleapis.com/kaggle-media/competitions/kaggle/5407/media/housesbanner.png" alt="Housing Prices">
   <p>
     If you found this helpful make sure to upvote the notebooks on Kaggle:
     <ul>
