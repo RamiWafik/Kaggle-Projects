@@ -1,6 +1,6 @@
   <h1>ML Kaggle Projects</h1>
   <p>
-    Welcome to the ML Kaggle Projects repository! This repository contains a collection of machine learning projects that I have worked on as part of Kaggle competitions. Each project focuses on solving real-world problems and applying various machine learning techniques. You can also check my profile on Kaggle [here](https://www.kaggle.com/ramiwafik).
+    Welcome to the ML Kaggle Projects repository! This repository contains a collection of machine learning projects that I have worked on as part of Kaggle competitions. Each project focuses on solving real-world problems and applying various machine learning techniques. You can also check my profile on Kaggle <a href="https://www.kaggle.com/ramiwafik">here.
   </p>
   
   <h2>Projects</h2>
